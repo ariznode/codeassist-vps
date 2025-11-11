@@ -2,7 +2,9 @@
 
 ## Reruitmens
 Minimum Specification
+
 CPU : 4 core
+
 RAM : 8GB
 
 #### This guide working for VPS
