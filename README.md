@@ -122,3 +122,5 @@ To start CodeAssist, you will need to have a HuggingFace token. Follow [these in
 # Login
 
 After you see http://localhost:3000 on terminal open http://localhost:3000 then login, after login complete mission
+
+<img src="https://drive.google.com/uc?export=view&id=1uoB9p6MV83c5YGTtjg4UKPdeCPToT7fw" >
