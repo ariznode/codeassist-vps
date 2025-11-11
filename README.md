@@ -37,7 +37,7 @@ paste your local ssh key then CTRL + O then ENTER then CTRL + X
 
 # Access your VPS using powershell by this command
 ```bash
-ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3000:localhost:3000 -L 8001:localhost:8001 vpsusername@vpsip
+ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3001:localhost:3000 -L 8001:localhost:8001 vpsusername@vpsip
 ```
 Change vpsusername and vpsip with your vps data eg: root@12.3.4.5
 
@@ -122,6 +122,6 @@ To start CodeAssist, you will need to have a HuggingFace token. Follow [these in
 
 # Login
 
-After you see http://localhost:3000 on terminal open http://localhost:3000 then login, after login complete mission
+After you see http://localhost:3000 on terminal open http://localhost:3001 on your browser then login, after login complete mission
 
 <img src="https://drive.google.com/uc?export=view&id=1uoB9p6MV83c5YGTtjg4UKPdeCPToT7fw" >
