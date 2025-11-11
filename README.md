@@ -1,5 +1,4 @@
-# codeassist-vps
-Running Codeassist Using VPS
+# Running Codeassist Using VPS
 
 ## Reruitmens
 Minimum Specification
