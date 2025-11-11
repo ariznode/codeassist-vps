@@ -21,6 +21,7 @@ Run this command for show your ssh keys
 cat ~/.ssh/id_rsa.pub
 ```
 then you need to show your ssh key then copy it or save on notepad
+
 <img src="https://drive.google.com/uc?export=view&id=19PlXkC8GuQWs8D-8822rQ8C6S-45C7fi" >
 
 Copy all of cencored
@@ -38,6 +39,7 @@ paste your local ssh key then CTRL + O then ENTER then CTRL + X
 ssh -L 8000:localhost:8000 -L 8008:localhost:8008 -L 3000:localhost:3000 -L 8001:localhost:8001 vpsusername@vpsip
 ```
 Change vpsusername and vpsip with your vps data eg: root@12.3.4.5
+
 Then you'll be asking for vps password, and enter your vps password then press ENTER
 
 # Installation
