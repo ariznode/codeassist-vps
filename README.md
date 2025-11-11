@@ -21,7 +21,8 @@ Run this command for show your ssh keys
 cat ~/.ssh/id_rsa.pub
 ```
 then you need to show your ssh key then copy it or save on notepad
-<img src="https://drive.google.com/file/d/19PlXkC8GuQWs8D-8822rQ8C6S-45C7fi" width="600">
+<img src="https://drive.google.com/uc?export=view&id=19PlXkC8GuQWs8D-8822rQ8C6S-45C7fi" >
+
 Copy all of cencored
 
 # Add ssh to your VPS
